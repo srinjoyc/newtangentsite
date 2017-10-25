@@ -1,0 +1,42 @@
+
+.home-view {
+  background-color: black;
+  height: 100vh;
+}
+.primary {
+  border: 1px solid black;
+  background-color: red;
+}
+.portfolio-card {
+
+}
+.card-container {
+  padding: 5em;
+}
+.no-padding {
+  padding: 0px !important;
+}
+.hero-grid {
+  background-color: black;
+}
+.portfolio-grid {
+  text-align: center;
+  display: block;
+}
+.services-card {
+  width: 100%;
+  height: 100%;
+  transition-property: width;
+  transition-duration: 2s;
+  transition-timing-function: linear;
+  transition-delay: 1s;
+}
+.services-card:hover {
+  width: 120%;
+  height: 150%;
+  background-image: url('/images/landing/graphic1.png');
+  transition-property: width;
+  transition-duration: 2s;
+  transition-timing-function: linear;
+  transition-delay: 1s;
+}

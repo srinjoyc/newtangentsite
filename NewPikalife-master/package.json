@@ -1,0 +1,37 @@
+{
+  "name": "meteor-react-redux-boilerplate",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "bcrypt": "^1.0.3",
+    "bootstrap4": "0.0.1-security",
+    "flexboxgrid": "^6.3.1",
+    "lodash": "^4.17.4",
+    "material-auto-rotating-carousel": "^1.6.0",
+    "material-ui": "^0.18.7",
+    "meteor-node-stubs": "~0.2.4",
+    "nuka-carousel": "^3.0.0",
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2",
+    "react-flexbox-grid": "^1.1.5",
+    "react-flip-page": "^0.10.1",
+    "react-ionicons": "^1.5.9",
+    "react-parallax": "^1.5.0",
+    "react-particles-js": "^2.1.0",
+    "react-redux": "^5.0.4",
+    "react-router-dom": "^4.1.1",
+    "react-router-redux": "^4.0.8",
+    "react-slick": "^0.15.4",
+    "react-swipeable-views": "^0.12.8",
+    "react-tap-event-plugin": "^2.0.1",
+    "reactstrap": "^5.0.0-alpha.3",
+    "redux": "^3.6.0",
+    "redux-api-middleware": "^2.0.0-beta.3",
+    "redux-logger": "^3.0.1",
+    "redux-thunk": "^2.2.0",
+    "typeface-roboto": "0.0.41"
+  }
+}
